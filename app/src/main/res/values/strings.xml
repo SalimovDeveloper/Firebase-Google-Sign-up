@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Firebase google Sign up</string>
+    <string name="next">Next</string>
 </resources>
